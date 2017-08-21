@@ -76,7 +76,7 @@
                     <artifactId>tomcat7-maven-plugin</artifactId>
                     <version>2.2</version>
                     <configuration>
-                        <url>http://192.168.119.100:8080/manager/text</url>
+                        <url>http://192.168.119.100:8888/manager/text</url>
                            <username>username</username>  
                            <password>password</password> 
                         <path>/jenkins1</path>
